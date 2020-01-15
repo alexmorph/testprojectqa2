@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="6998" started-at="2020-01-15T20:03:07Z" finished-at="2020-01-15T20:03:14Z">
+    <groups>
+    </groups>
+    <test name="exampletest" duration-ms="6998" started-at="2020-01-15T20:03:07Z" finished-at="2020-01-15T20:03:14Z">
+      <class name="uk.co.theautomatedtester.book.test.AutoTest">
+        <test-method status="PASS" signature="CheckThatTextIsDisplayedOnChapterOnePage()[pri:0, instance:uk.co.theautomatedtester.book.test.AutoTest@6574b225]" name="CheckThatTextIsDisplayedOnChapterOnePage" duration-ms="6966" started-at="2020-01-15T20:03:07Z" finished-at="2020-01-15T20:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckThatTextIsDisplayedOnChapterOnePage -->
+      </class> <!-- uk.co.theautomatedtester.book.test.AutoTest -->
+    </test> <!-- exampletest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
